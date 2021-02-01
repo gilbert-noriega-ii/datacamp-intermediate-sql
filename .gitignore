@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__
+titanic.csv
+iris.csv
+env.py
+*.csv
+package.json
